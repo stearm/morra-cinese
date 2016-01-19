@@ -1,0 +1,17 @@
+{
+  "name": "morra-cinese",
+  "version": "1.0.0",
+  "description": "Simple morra cinese game implementation using ExpressJS",
+  "main": "app.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha --reporter spec"
+  },
+  "author": "Stefano Armenes",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^3.4.1",
+    "express": "^4.13.3",
+    "mocha": "^2.3.4",
+    "underscore": "^1.8.3"
+  }
+}
